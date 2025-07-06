@@ -1,0 +1,26 @@
+,F_emotion,V_emotion,In_Cong,F_Stimuly,V_Stimuly,response,reaction_time,correct
+22,anger,sadness,INCONG,80_ANG.png,MG_SAD.wav,happiness,3.116,0.0
+7,happiness,happiness,CONG,54_HAP.png,NA_HAP.wav,happiness,1.525,1.0
+15,disgust ,anger,INCONG,54_DIS.png,NA_ANG.wav,disgust,1.511,0.0
+1,sadness,happiness,INCONG,80_SAD.png,MG_HAP.wav,anger,2.285,0.0
+12,sadness,sadness,CONG,54_SAD.png,NA_SAD.wav,sadness,0.707,1.0
+9,happiness,fear,INCONG,80_HAP.png,MG_FER.wav,happiness,0.381,0.0
+0,disgust ,disgust ,CONG,54_DIS.png,NA_DIS.wav,anger,0.324,0.0
+2,disgust ,happiness,INCONG,80_DIS.png,MG_HAP.wav,fear,0.548,0.0
+19,happiness,disgust ,INCONG,54_HAP.png,NA_DIS.wav,sadness,0.283,0.0
+4,fear,happiness,INCONG,54_FER.png,NA_HAP.wav,anger,0.21,0.0
+21,fear,disgust ,INCONG,80_FER.png,MG_DIS.wav,sadness,0.144,0.0
+18,happiness,fear,INCONG,54_HAP.png,NA_FER.wav,anger,0.25,0.0
+24,happiness,fear,INCONG,54_HAP.png,NA_FER.wav,sadness,0.172,0.0
+20,sadness,disgust ,INCONG,80_SAD.png,MG_DIS.wav,anger,0.212,0.0
+16,sadness,anger,INCONG,54_SAD.png,NA_ANG.wav,sadness,0.328,0.0
+13,anger,anger,CONG,80_ANG.png,MG_ANG.wav,anger,0.287,1.0
+11,fear,fear,CONG,80_FER.png,MG_FER.wav,happiness,0.56,0.0
+5,disgust ,anger,INCONG,80_DIS.png,MG_ANG.wav,sadness,0.224,0.0
+23,anger,disgust ,INCONG,54_ANG.png,NA_DIS.wav,happiness,0.196,0.0
+17,anger,happiness,INCONG,54_ANG.png,NA_HAP.wav,disgust,0.121,0.0
+6,happiness,anger,INCONG,80_HAP.png,MG_ANG.wav,sadness,0.174,0.0
+3,sadness,fear,INCONG,80_SAD.png,MG_FER.wav,happiness,0.203,0.0
+8,disgust ,sadness,INCONG,54_DIS.png,NA_SAD.wav,sadness,0.122,1.0
+10,happiness,sadness,INCONG,54_HAP.png,NA_SAD.wav,happiness,0.073,0.0
+14,disgust ,sadness,INCONG,80_DIS.png,MG_SAD.wav,sadness,0.052,1.0
